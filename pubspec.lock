@@ -8,6 +8,15 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.9.0"
+  auth_module:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: HEAD
+      resolved-ref: "10ed525161035442a063589f15a75ffd4f0d6900"
+      url: "https://github.com/KrittapatBigC/test_auth.git"
+    source: git
+    version: "1.0.0+1"
   boolean_selector:
     dependency: transitive
     description:
